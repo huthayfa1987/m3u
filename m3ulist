@@ -1,0 +1,124 @@
+#EXTM3U
+#EXTINF:-1,X------------------------------------PALESTINE------------------------------------X
+http://universeiptv.com:8000/live/fadi70/778899/1691.ts
+#EXTINF:-1,AL-Fajer HD Tv 1 S1
+http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+
+#EXTINF:-1,AL-Fajer HD Tv 1 S2
+http://vstream3.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+
+#EXTINF:-1,AL-Fajer HD Tv 1 S3
+http://vstream.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,AL-Fajer HD Tv 2 S1
+
+http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+
+#EXTINF:-1,AL-Fajer HD Tv 2 S2
+http://vstream3.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+
+#EXTINF:-1,AL-Fajer HD Tv 2 S3
+http://vstream.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+
+#EXTINF:-1,AL-Fajer HD Tv 3 S1
+
+http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+
+#EXTINF:-1,AL-Fajer HD Tv 3 S2
+http://vstream3.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+
+#EXTINF:-1,AL-Fajer HD Tv 3 S3
+http://vstream.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:-1,AL-Fajer HD Tv 4 S1
+http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
+#EXTINF:-1,AL-Fajer HD Tv 4 S2
+http://vstream3.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
+#EXTINF:-1,AL-Fajer HD Tv 4 S3
+http://vstream.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
+#EXTINF:-1,AL-Fajer HD Tv 5 S1
+http://vstream.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,AL-Fajer HD Tv 5 S2
+http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,Ajyal Tv HD
+
+rtmp://w1.mada.ps/ajyal//livestream2
+#EXTINF:-1,Ajyal Tv SD
+rtmp://w1.mada.ps/ajyal//livestreamm
+
+#EXTINF:-1,Raya Tv - High
+http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Raya Tv - Low
+http://vstream3.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
+#EXTINF:-1,Raya Radio
+http://htv.mada.ps:8888/raya/raya/tracks-v1a1/index.m3u8
+#EXTINF:-1,kolalnas tv
+http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
+#EXTINF:-1,adwa2tv
+http://htv.mada.ps:8888/adwa2tv/adwa2tv/tracks-v1a1/index.m3u8
+#EXTINF:-1,salamtv
+http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,AmwajHD
+rtmp://vstreamgz.hadara.ps/AmwajHD1_e/AmwajHD
+#EXTINF:-1,alhouriya tv
+http://vstream3.hadara.ps:8081/hrHD1_web/web/chunks.m3u8
+#EXTINF:-1,nawras tv
+rtmp://vstream2.hadara.ps/hrHD1_e//hr3
+#EXTINF:-1,alhouriya Radio
+http://vstream3.hadara.ps:8081/hrHD2_web/web/chunks.m3u8
+#EXTINF:-1,nabluslive
+
+http://htv.mada.ps:8888/nabluslive/nabluslive/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,maantv
+http://vstream3.hadara.ps:8081/MaanHD_web/web/chunks.m3u8
+
+#EXTINF:-1,shasha tv
+rtmp://vstream2.hadara.ps/shasha//shasha_1
+
+#EXTINF:-1,Bethlehem Tv
+rtmp://vstream2.hadara.ps:1935/bethtv/bethtv_1
+
+#EXTINF:-1,pnn tv
+http://htv.mada.ps:8888/pnn/pnn/tracks-v1a1/index.m3u8
+#EXTINF:-1,palestine tv
+
+rtmp://46.43.64.214/pbc//pbc
+
+#EXTINF:-1,palestine live tv
+rtmp://46.43.64.214/pbclive//pbclive
+
+#EXTINF:-1,palestine tv
+rtmp://46.43.64.214/pbc//pbc
+
+#EXTINF:-1,Aqsa Tv
+rtmp://live.aqsatv.ps:1935/aqsatv/live/tv
+
+#EXTINF:-1,Al-Manar 1 Tv
+rtmp://stream.mediaforall.net:1935/liveorigin/livestream_360p
+
+#EXTINF:-1,Al-Manar 2 Tv
+
+rtmp://stream.mediaforall.net:1935/liveorigin/livestream_480p
+
+#EXTINF:-1,sport-1
+rtmp://5.34.160.157/live//480ch1.stream
+#EXTINF:-1,sport-2
+rtmp://5.34.160.157/live//sport-2-480.stream
+#EXTINF:-1,sport-3
+rtmp://5.34.160.157/live//sport-3-480.stream
+#EXTINF:-1,Hala
+http://wowza.panet.co.il:1935/live/smil:halaTV.smil/chunklist_w598642269_b200000_sleng.m3u8
+#EXTINF:-1,BNet.TS-2
+http://93.184.0.198/tv2/test.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
